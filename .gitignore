@@ -1,0 +1,4 @@
+# Ignore documentation files and editor backup files
+doc/
+*~
+*.swp
